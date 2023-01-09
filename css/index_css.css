@@ -3,6 +3,7 @@ body{
     margin: 0;
 }
 .footer{
+    font-family: "Brush Script MT", script;
     background-color: #439A97;
     width: 100%;
     position: fixed;
@@ -24,8 +25,11 @@ body{
     
 }
 h1{
-    font-family: Brush Script MT, serif;
+    font-family: "Brush Script MT", script;
     font-size: 50px;
+}
+h2{
+    font-family: "Brush Script MT", script;
 }
 
 .upper-cloud{
