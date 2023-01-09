@@ -1,0 +1,85 @@
+body{
+    background-color: #939B62;
+    margin: 0;
+}
+.footer{
+    background-color: #439A97;
+    width: 100%;
+    position: fixed;
+    
+}
+.person{
+    position: absolute;
+    height: 60px;
+    margin-left: 40px;
+}
+.login{
+    margin-left: 110px;
+}
+/*          top             */
+.top{
+    text-align: center;
+    background-color: #439A97;
+    padding: 100px;
+    
+}
+h1{
+    font-family: Brush Script MT, serif;
+    font-size: 50px;
+}
+
+.upper-cloud{
+    position: relative;
+    left:200px;
+    top: 20px;
+}
+.bottom-cloud{
+        position: absolute;
+}
+.top-inside{
+        position: relative;
+        top: 104px;
+}
+/*        top2                 */
+
+.top2{
+    text-align: center;
+    background-color: #62B6B7;
+    padding: 10px;
+}
+.rajat{
+    height: 130px;
+}
+.about:content{
+    color: red;
+
+}
+/*        middle bos          */
+
+.middle{
+    font-size: 20px;
+    text-align: center;
+    background-color: #97DECE;
+    padding: 10px;
+}
+.web{
+    height: 150px;
+}
+.java{
+    height: 150px;
+}
+
+/*          bottom bos          */
+
+.bottom{
+    font-size: 20px;
+    text-align: center;
+    background-color: #CBEDD5;
+    padding: 10px;
+}
+.sketch{
+    height: 100px;
+}
+.gaming{
+    height: 100px;
+}
